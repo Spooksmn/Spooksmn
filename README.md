@@ -8,7 +8,7 @@
 
 
 
-<a href="https://discord.com/invite/YBarExdreQ">![DiscordServer](https://img.shields.io/discord/804461788367683595?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://discord.com/invite/YBarExdreQ">![DiscordServer](https://img.shields.io/badge/Online-150-brightgreen?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/-Spooks%233037-9cf)
  
 -------------------
