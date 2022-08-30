@@ -6,7 +6,7 @@
  
 ## Contact
 
-<a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/badge/chat-150%20online-brightgreen?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://discord.com/invite/YBarExdreQ">![DiscordServer](https://img.shields.io/badge/chat-150%20online-brightgreen?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 
 <a href="https://discord.com/invite/YBarExdreQ">![DiscordServer](https://img.shields.io/discord/804461788367683595?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/AZERTY%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
