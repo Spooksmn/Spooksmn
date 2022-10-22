@@ -2,7 +2,11 @@
   
 
 Contact me:
+
+
 Email: wspooks@proton.me
+
+
 Discord: Spooks#3037 (430387492005347329)
   
 ![Spooksmn github stats](https://github-readme-stats.vercel.app/api?username=Spooksmn&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
