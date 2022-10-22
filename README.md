@@ -27,8 +27,8 @@
 
 -------------------
   
-![Spooksmn github stats](https://github-readme-stats.vercel.app/api?username=Spooksmn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Spooksmn github stats](https://github-readme-stats.vercel.app/api?username=Spooksmn&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
  
-![Spooksmn github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Spooksmn&layout=compact&theme=radical&hide_border=true)
+![Spooksmn github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Spooksmn&layout=compact&theme=dracula&hide_border=true)
  
  <div>
