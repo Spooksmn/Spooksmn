@@ -1,7 +1,7 @@
 <div align="center">
   
 
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 -------------------
  
@@ -30,7 +30,6 @@
   
 ![Spooksmn github stats](https://github-readme-stats.vercel.app/api?username=Spooksmn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
  
-![Spooksmn github streak](https://github-readme-streak-stats.herokuapp.com/?user=AZERTY442005&theme=radical&include_all_commits=true&count_private=true)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Spooksmn/github-readme-stats)
  
  <div>
